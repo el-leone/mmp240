@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1  {
+      color: #028;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      font-size: 50;
+      font-weight: bolder;
+      line-height: normal;
+      text-align: left;
+      text-decoration: bold;
+    }
+  
+    h2  {
+      color: #028;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      font-size: 36;
+      font-weight: bold;
+      line-height: 50%;
+      text-align: left;
+      text-decoration: bold;
+      border-left: 6px solid red;
+    }
