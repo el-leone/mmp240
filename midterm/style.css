@@ -1,6 +1,7 @@
 body {
   font-family: 'Source Sans Pro,' sans-serif;
   line-height: 1.2em;
+  background-color:#cccccc;
 }
 
 #wrapper{
@@ -27,7 +28,7 @@ h1 img{
 }
 
 header button{
-  background-color: #028;
+  background-color: #941f1f;
   background-image: url("images/play.gif");
   background-repeat: no-repeat;
   background-position: left center;
@@ -40,7 +41,7 @@ header button{
 }
   
 h1  {
-      color: #028;
+      color: #01016f;
       font-size: 32;
       text-align: left;
       text-decoration: bold;
@@ -52,7 +53,7 @@ h2{
       margin-bottom: 0.5em;
     }
 
- h3{
+h3{
       font-size:1.3rem;
       font-weight: bold;
     }
@@ -70,7 +71,7 @@ p{
 
 
 nav {
-      background-color: blue;
+      background-color: #01016f;
       padding:10px;
       margin-bottom: 2em;
 
@@ -92,7 +93,7 @@ nav a {
     }
 
 nav a:hover{
-      color: green;
+      color: #d8031c;
       text-decoration: underline;
     }
 
