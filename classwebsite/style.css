@@ -1,10 +1,15 @@
+#wrapper{
+  max-width: 1200px;
+  margin:0 auto; /*first value top/bottom, second value left/right */
+}
+
 body {
-  background-color: gray;
+  background-color:#dddddd;
 }
 
 h1  {
     color: #028;
-    font-size: 50;
+    font-size: larger;
     text-align: left;
     text-decoration: bold;
   }
